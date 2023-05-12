@@ -1,8 +1,8 @@
 
 # -*- coding: utf-8 -*-
-#Encoded By I4m_Sasuke 
-#Telegram : I4m_Sasuke
-#CHANNEL : t.me/I4MXCRACKERS
+#Mr Hope @MrH0p4x 
+
+
 import marshal
 import time
 
